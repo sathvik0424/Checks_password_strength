@@ -2,7 +2,6 @@ import re
 def password_strength(password):
     """
     This function checks the strength of a password.
-    
     A strong password should have:
     - At least 8 characters
     - At least one uppercase letter
