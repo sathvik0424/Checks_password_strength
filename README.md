@@ -1,3 +1,4 @@
+# Strength of Password
  The functions checks the strength of a password.
     A strong password should have:
     - At least 8 characters
