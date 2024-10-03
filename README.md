@@ -8,7 +8,7 @@ This is a simple Python script that evaluates the strength of a password based o
 - Ensures the password contains at least one lowercase letter.
 - Ensures the password contains at least one uppercase letter.
 - Ensures the password contains at least one digit.
-- Ensures the password contains at least one special character (_@$).
+- Ensures the password contains at least one special character (_₹@$).
 
 ## Installation
 
