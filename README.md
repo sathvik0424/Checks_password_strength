@@ -12,4 +12,5 @@ This is a simple Python script that evaluates the strength of a password based o
 
 ## Installation
 
-To run the script, ensure you have Python installed on your machine. You can download Python from [python.org](https://www.python.org/downloads/).
+- To run the script, ensure you have Python installed on your machine. -
+- You can download Python from [python.org](https://www.python.org/downloads/).
